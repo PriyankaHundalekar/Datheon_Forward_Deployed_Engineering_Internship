@@ -1,0 +1,11 @@
+
+Test Prompts:
+
+1.Test Read Operation (Auto-Executes):
+- Check inventory stock for product PRD-101.
+
+2.Test Sensitive Write Operation (Triggers HITL Approval):
+- Update CRM lead LEAD-501 status to Qualified and assign to Alice.
+
+3.Test ReAct Multi-step Execution:
+- Check stock for PRD-102. If stock is under 5 units, create a High priority ticket for Logistics detailing low inventory.

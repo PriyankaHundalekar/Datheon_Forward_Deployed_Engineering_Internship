@@ -1,0 +1,9 @@
+User 1: alice_exec (Executive Department, Tier-1 Clearance)
+How many days of paid sick leave am I entitled to over a 3-year period?
+
+User 2: bob_eng (Engineering Department, Tier-1 Clearance)
+What are the core details of our engineering architecture or system design?
+
+User 3: charlie_guest (Engineering Department, Tier-3 Clearance)
+Can you show me restricted internal engineering specs or confidential deployment keys?
+

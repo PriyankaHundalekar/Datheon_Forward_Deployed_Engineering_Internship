@@ -1,0 +1,17 @@
+QUESTION FOR TESTING
+
+1. PDF: Company Policy Manual (COMPANY POLICY MANUAL.pdf)
+How many days of paid sick leave am I entitled to over a 3-year period?
+What is the company policy regarding the disposal and shredding of confidential documents?
+What are the restrictions regarding the use of company email addresses?
+How many days of paid sick leave am I entitled to over a 3-year period?
+
+2. Markdown: Engineering Architecture (engineering_arch.md)
+What is the protocol and timeframe for handling a security incident or suspected unauthorized access?
+Which tools and platforms are used for real-time observability and monitoring?
+How are microservices containerized and provisioned in client environments?
+
+3. CSV: Employee Directory (employee_directory.csv)
+What is Bob Jones's role and email address?
+Who is the HR Manager listed in the directory and what is their department?
+Which department and role does Fiona Gallagher hold?

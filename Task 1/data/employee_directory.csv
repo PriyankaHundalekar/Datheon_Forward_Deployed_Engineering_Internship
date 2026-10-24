@@ -1,0 +1,7 @@
+EmployeeID,Name,Role,Email,Department,AccessTier
+101,Alice Smith,Data Engineer,alice@client.com,Engineering,Tier-1
+102,Bob Jones,Security Lead,bob@client.com,Engineering,Tier-1
+103,Charlie Davis,Cloud Architect,charlie@client.com,Engineering,Tier-2
+104,Diana Prince,HR Manager,diana@client.com,Executive,Tier-1
+105,Evan Wright,Financial Analyst,evan@client.com,Finance,Tier-2
+106,Fiona Gallagher,DevOps Specialist,fiona@client.com,Engineering,Tier-2
